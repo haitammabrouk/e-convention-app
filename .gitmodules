@@ -1,0 +1,6 @@
+[submodule "e-convention-frontend"]
+	path = e-convention-frontend
+	url = https://github.com/haitammabrouk/e-convention-frontend.git
+[submodule "e-convention-backend"]
+	path = e-convention-backend
+	url = https://github.com/haitammabrouk/e-convention-backend.git
