@@ -22,7 +22,7 @@ This web application streamlines and automates the manual internship agreement s
 ### 1. Clone the repository
 ```bash
 https://github.com/haitammabrouk/e-convention-app.git
-cd e-convention
+cd e-convention-app
 ```
 
 ### 2. Configure PostgreSQL
