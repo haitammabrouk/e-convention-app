@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This web application streamlines and automates the manual internship agreement signing process previously used by the school. It replaces time-consuming manual steps — downloading forms, filling them out, physically signing, and submitting documents — with a fully digital, efficient workflow.improving overall user experience.
+This web application streamlines and automates the manual internship agreement signing process previously used by the school. It replaces time-consuming manual steps — downloading forms, filling them out, physically signing, and submitting documents — with a fully digital, efficient workflow, Improving overall user experience.
 
 ## Technology Stack
 
@@ -21,7 +21,7 @@ This web application streamlines and automates the manual internship agreement s
 
 ### 1. Clone the repository
 ```bash
-https://github.com/haitammabrouk/e-convention-app.git
+git clone https://github.com/haitammabrouk/e-convention-app.git
 cd e-convention-app
 ```
 
